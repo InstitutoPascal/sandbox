@@ -1,0 +1,5 @@
+hg add agrega archivo
+hg diff compara archivo
+hg status muestra e estado del archivo
+hg rm borra archivo
+hg update recupera ultimo archivo del repositorio
