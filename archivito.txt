@@ -4,3 +4,4 @@
     Modificar el nuevo archivo (una linea)
     Borrar el archivo nuevo
     Revertir el archivo al punto 3
+    Clonar el repositorio sandbox
