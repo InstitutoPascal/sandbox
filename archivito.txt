@@ -1,0 +1,6 @@
+    Clonar el repositorio sandbox
+    Modificar su propio archivo (editado por GitHub en clases anteriores)
+    Agregar un nuevo archivo (con al menos 5 lineas de texto)
+    Modificar el nuevo archivo (una linea)
+    Borrar el archivo nuevo
+    Revertir el archivo al punto 3
