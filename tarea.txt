@@ -1,0 +1,4 @@
+1 agregar
+2 modificar
+3 borrar
+4 revertir a la original
