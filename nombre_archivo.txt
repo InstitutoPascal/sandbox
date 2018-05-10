@@ -1,8 +1,0 @@
-creando archivo apunte de clase
-1-en el directorio de sandox vamos a crear un archivo nuevo
-2-luego lo vamos a agregar al repositorio local
-3-siguiente paso, guardar o confirmar usando commit
-4-vamos a acceder nuevamente al archivo y lo vamos a modificar
-5-una vez modificado volvemos a guardar
-6-ahora vamos a borrar el archivo del repositorio y lo guardamos
-7-volvemos a recuperar la 1ra version del archivo
